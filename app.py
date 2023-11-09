@@ -1,11 +1,12 @@
-from dotenv import load_dotenv
-import openai
-import os
 import streamlit as st
+import openai
+# from dotenv import load_dotenv
+# import os
+# load_dotenv()
+# openai.api_key = os.getenv('OPENAI_API_KEY')
 
-# Load API key from .env
-load_dotenv()
-openai.api_key = os.getenv('OPENAI_API_KEY')
+# Load OpenAI API key
+openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 # Define gpt-4 outside of Streamlit instance
 gpt_prompt = """you will act as a matlab to python refactoring machine. I will paste matlab code and you will just output the refactored code in python, including not too verbose but useful comments. Important: do not output anything beside the code — this is powering a refactoring app within an aerospace university research program via gpt-4 API. REQUIREMENTS: python 3.9, numpy, matplotlib, scipy, simpy, pandas. The code to refactor is: 
