@@ -48,10 +48,10 @@ hold off;"""
 
 # user inputs
 user_code = st.text_area('Code to refactor', placeholder=placeholder_code, height=300, help="Paste your MATLAB or Python code here.")
-word_count = st.sidebar.slider("Word Count", min_value=50, max_value=300, value=150, step=1)
+word_count = st.slider("Word Count", min_value=50, max_value=300, value=150, step=1)
 
 # refactor logic
-if st.button('Translate Code'):
+if st.button('🔄 Translate Code'):
     if not user_code: # if no user input, refactor placeholder code as demonstration
         user_code = placeholder_code
     refactored_code = call_openai_api(refactor_prompt + user_code)
@@ -63,15 +63,15 @@ if st.button('Translate Code'):
             st.code(refactored_code, language='python')
 
 # interpretation logic
-if st.button('Interpret Code'):
+if st.button('🧑‍🏫 Interpret Code'):
     interpret_prompt = f"""you will interpret the following MATLAB or python code from an aerospace engineering perspective, explaining its purpose and functionality in simple terms. Reprint code samples and formulas in markdown-compatible format whenever possible. Make your response {word_count} words long. The code to interpret is:
     """
     interpretation = call_openai_api(interpret_prompt.replace("$word_count", str(word_count)) + user_code)
     if interpretation:
         st.markdown("### Interpretation")
         st.write(interpretation)
-
+        
 # About section in sidebar
-with st.sidebar:
-    st.header('About')
-    st.info('This app uses GPT-4 to refactor and interpret code. It is designed for educational purposes in the field of aerospace engineering.')
+# with st.sidebar:
+    # st.header('About')
+    # st.info('This app uses GPT-4 to refactor and interpret code. It is designed for educational purposes in the field of aerospace engineering.')
