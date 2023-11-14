@@ -48,7 +48,7 @@ hold off;"""
 
 # user inputs
 user_code = st.text_area('Code to refactor', placeholder=placeholder_code, height=300, help="Paste your MATLAB or Python code here.")
-word_count = st.slider("Word Count", min_value=50, max_value=300, value=150, step=1)
+word_count = st.slider("Word count for AI explanation", min_value=50, max_value=300, value=150, step=1)
 
 # refactor logic
 if st.button('🔄 Translate Code'):
@@ -72,6 +72,10 @@ if st.button('🧑‍🏫 Interpret Code'):
         st.write(interpretation)
         
 # About section in sidebar
-# with st.sidebar:
-    # st.header('About')
-    # st.info('This app uses GPT-4 to refactor and interpret code. It is designed for educational purposes in the field of aerospace engineering.')
+with st.sidebar:
+    st.header('About')
+    st.info('This app uses GPT-4 to refactor and interpret code. It is designed for educational purposes in the field of aerospace engineering.')
+
+# TODO add Google Drive link for user file uploads
+
+
