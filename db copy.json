@@ -7,8 +7,7 @@
                 {
                     "slide_number": 1,
                     "image_path": "./subjects/cfd/v01/slide_1.png",
-                    "description": "./subjects/cfd/v01/slide_1.md"
-                },
+                    "description": "./subjects/cfd/v01/slide_1.md"                },
                 {
                     "slide_number": 2,
                     "image_path": "./subjects/cfd/v01/slide_2.png",
@@ -27,177 +26,177 @@
                 {
                     "slide_number": 5,
                     "image_path": "./subjects/cfd/v01/slide_5.png",
-                    "description": "./subjects/cfd/v01/slide_5.md"
+                    "description": "Description for Slide 5"
                 },
                 {
                     "slide_number": 6,
                     "image_path": "./subjects/cfd/v01/slide_6.png",
-                    "description": "./subjects/cfd/v01/slide_6.md"
+                    "description": "Description for Slide 6"
                 },
                 {
                     "slide_number": 7,
                     "image_path": "./subjects/cfd/v01/slide_7.png",
-                    "description": "./subjects/cfd/v01/slide_7.md"
+                    "description": "Description for Slide 7"
                 },
                 {
                     "slide_number": 8,
                     "image_path": "./subjects/cfd/v01/slide_8.png",
-                    "description": "./subjects/cfd/v01/slide_8.md"
+                    "description": "Description for Slide 8"
                 },
                 {
                     "slide_number": 9,
                     "image_path": "./subjects/cfd/v01/slide_9.png",
-                    "description": "./subjects/cfd/v01/slide_9.md"
+                    "description": "Description for Slide 9"
                 },
                 {
                     "slide_number": 10,
                     "image_path": "./subjects/cfd/v01/slide_10.png",
-                    "description": "./subjects/cfd/v01/slide_10.md"
+                    "description": "Description for Slide 10"
                 },
                 {
                     "slide_number": 11,
                     "image_path": "./subjects/cfd/v01/slide_11.png",
-                    "description": "./subjects/cfd/v01/slide_11.md"
+                    "description": "Description for Slide 11"
                 },
                 {
                     "slide_number": 12,
                     "image_path": "./subjects/cfd/v01/slide_12.png",
-                    "description": "./subjects/cfd/v01/slide_12.md"
+                    "description": "Description for Slide 12"
                 },
                 {
                     "slide_number": 13,
                     "image_path": "./subjects/cfd/v01/slide_13.png",
-                    "description": "./subjects/cfd/v01/slide_13.md"
+                    "description": "Description for Slide 13"
                 },
                 {
                     "slide_number": 14,
                     "image_path": "./subjects/cfd/v01/slide_14.png",
-                    "description": "./subjects/cfd/v01/slide_14.md"
+                    "description": "Description for Slide 14"
                 },
                 {
                     "slide_number": 15,
                     "image_path": "./subjects/cfd/v01/slide_15.png",
-                    "description": "./subjects/cfd/v01/slide_15.md"
+                    "description": "Description for Slide 15"
                 },
                 {
                     "slide_number": 16,
                     "image_path": "./subjects/cfd/v01/slide_16.png",
-                    "description": "./subjects/cfd/v01/slide_16.md"
+                    "description": "Description for Slide 16"
                 },
                 {
                     "slide_number": 17,
                     "image_path": "./subjects/cfd/v01/slide_17.png",
-                    "description": "./subjects/cfd/v01/slide_17.md"
+                    "description": "Description for Slide 17"
                 },
                 {
                     "slide_number": 18,
                     "image_path": "./subjects/cfd/v01/slide_18.png",
-                    "description": "./subjects/cfd/v01/slide_18.md"
+                    "description": "Description for Slide 18"
                 },
                 {
                     "slide_number": 19,
                     "image_path": "./subjects/cfd/v01/slide_19.png",
-                    "description": "./subjects/cfd/v01/slide_19.md"
+                    "description": "Description for Slide 19"
                 },
                 {
                     "slide_number": 20,
                     "image_path": "./subjects/cfd/v01/slide_20.png",
-                    "description": "./subjects/cfd/v01/slide_20.md"
+                    "description": "Description for Slide 20"
                 },
                 {
                     "slide_number": 21,
                     "image_path": "./subjects/cfd/v01/slide_21.png",
-                    "description": "./subjects/cfd/v01/slide_21.md"
+                    "description": "Description for Slide 21"
                 },
                 {
                     "slide_number": 22,
                     "image_path": "./subjects/cfd/v01/slide_22.png",
-                    "description": "./subjects/cfd/v01/slide_22.md"
+                    "description": "Description for Slide 22"
                 },
                 {
                     "slide_number": 23,
                     "image_path": "./subjects/cfd/v01/slide_23.png",
-                    "description": "./subjects/cfd/v01/slide_23.md"
+                    "description": "Description for Slide 23"
                 },
                 {
                     "slide_number": 24,
                     "image_path": "./subjects/cfd/v01/slide_24.png",
-                    "description": "./subjects/cfd/v01/slide_24.md"
+                    "description": "Description for Slide 24"
                 },
                 {
                     "slide_number": 25,
                     "image_path": "./subjects/cfd/v01/slide_25.png",
-                    "description": "./subjects/cfd/v01/slide_25.md"
+                    "description": "Description for Slide 25"
                 },
                 {
                     "slide_number": 26,
                     "image_path": "./subjects/cfd/v01/slide_26.png",
-                    "description": "./subjects/cfd/v01/slide_26.md"
+                    "description": "Description for Slide 26"
                 },
                 {
                     "slide_number": 27,
                     "image_path": "./subjects/cfd/v01/slide_27.png",
-                    "description": "./subjects/cfd/v01/slide_27.md"
+                    "description": "Description for Slide 27"
                 },
                 {
                     "slide_number": 28,
                     "image_path": "./subjects/cfd/v01/slide_28.png",
-                    "description": "./subjects/cfd/v01/slide_28.md"
+                    "description": "Description for Slide 28"
                 },
                 {
                     "slide_number": 29,
                     "image_path": "./subjects/cfd/v01/slide_29.png",
-                    "description": "./subjects/cfd/v01/slide_29.md"
+                    "description": "Description for Slide 29"
                 },
                 {
                     "slide_number": 30,
                     "image_path": "./subjects/cfd/v01/slide_30.png",
-                    "description": "./subjects/cfd/v01/slide_30.md"
+                    "description": "Description for Slide 30"
                 },
                 {
                     "slide_number": 31,
                     "image_path": "./subjects/cfd/v01/slide_31.png",
-                    "description": "./subjects/cfd/v01/slide_31.md"
+                    "description": "Description for Slide 31"
                 },
                 {
                     "slide_number": 32,
                     "image_path": "./subjects/cfd/v01/slide_32.png",
-                    "description": "./subjects/cfd/v01/slide_32.md"
+                    "description": "Description for Slide 32"
                 },
                 {
                     "slide_number": 33,
                     "image_path": "./subjects/cfd/v01/slide_33.png",
-                    "description": "./subjects/cfd/v01/slide_33.md"
+                    "description": "Description for Slide 33"
                 },
                 {
                     "slide_number": 34,
                     "image_path": "./subjects/cfd/v01/slide_34.png",
-                    "description": "./subjects/cfd/v01/slide_34.md"
+                    "description": "Description for Slide 34"
                 },
                 {
                     "slide_number": 35,
                     "image_path": "./subjects/cfd/v01/slide_35.png",
-                    "description": "./subjects/cfd/v01/slide_35.md"
+                    "description": "Description for Slide 35"
                 },
                 {
                     "slide_number": 36,
                     "image_path": "./subjects/cfd/v01/slide_36.png",
-                    "description": "./subjects/cfd/v01/slide_36.md"
+                    "description": "Description for Slide 36"
                 },
                 {
                     "slide_number": 37,
                     "image_path": "./subjects/cfd/v01/slide_37.png",
-                    "description": "./subjects/cfd/v01/slide_37.md"
+                    "description": "Description for Slide 37"
                 },
                 {
                     "slide_number": 38,
                     "image_path": "./subjects/cfd/v01/slide_38.png",
-                    "description": "./subjects/cfd/v01/slide_38.md"
+                    "description": "Description for Slide 38"
                 },
                 {
                     "slide_number": 39,
                     "image_path": "./subjects/cfd/v01/slide_39.png",
-                    "description": "./subjects/cfd/v01/slide_39.md"
+                    "description": "Description for Slide 39"
                 }
             ]
         },
@@ -208,202 +207,202 @@
                 {
                     "slide_number": 1,
                     "image_path": "./subjects/cfd/v02/slide_1.png",
-                    "description": "./subjects/cfd/v02/slide_1.md"
+                    "description": "Description for Slide 1"
                 },
                 {
                     "slide_number": 2,
                     "image_path": "./subjects/cfd/v02/slide_2.png",
-                    "description": "./subjects/cfd/v02/slide_2.md"
+                    "description": "Description for Slide 2"
                 },
                 {
                     "slide_number": 3,
                     "image_path": "./subjects/cfd/v02/slide_3.png",
-                    "description": "./subjects/cfd/v02/slide_3.md"
+                    "description": "Description for Slide 3"
                 },
                 {
                     "slide_number": 4,
                     "image_path": "./subjects/cfd/v02/slide_4.png",
-                    "description": "./subjects/cfd/v02/slide_4.md"
+                    "description": "Description for Slide 4"
                 },
                 {
                     "slide_number": 5,
                     "image_path": "./subjects/cfd/v02/slide_5.png",
-                    "description": "./subjects/cfd/v02/slide_5.md"
+                    "description": "Description for Slide 5"
                 },
                 {
                     "slide_number": 6,
                     "image_path": "./subjects/cfd/v02/slide_6.png",
-                    "description": "./subjects/cfd/v02/slide_6.md"
+                    "description": "Description for Slide 6"
                 },
                 {
                     "slide_number": 7,
                     "image_path": "./subjects/cfd/v02/slide_7.png",
-                    "description": "./subjects/cfd/v02/slide_7.md"
+                    "description": "Description for Slide 7"
                 },
                 {
                     "slide_number": 8,
                     "image_path": "./subjects/cfd/v02/slide_8.png",
-                    "description": "./subjects/cfd/v02/slide_8.md"
+                    "description": "Description for Slide 8"
                 },
                 {
                     "slide_number": 9,
                     "image_path": "./subjects/cfd/v02/slide_9.png",
-                    "description": "./subjects/cfd/v02/slide_9.md"
+                    "description": "Description for Slide 9"
                 },
                 {
                     "slide_number": 10,
                     "image_path": "./subjects/cfd/v02/slide_10.png",
-                    "description": "./subjects/cfd/v02/slide_10.md"
+                    "description": "Description for Slide 10"
                 },
                 {
                     "slide_number": 11,
                     "image_path": "./subjects/cfd/v02/slide_11.png",
-                    "description": "./subjects/cfd/v02/slide_11.md"
+                    "description": "Description for Slide 11"
                 },
                 {
                     "slide_number": 12,
                     "image_path": "./subjects/cfd/v02/slide_12.png",
-                    "description": "./subjects/cfd/v02/slide_12.md"
+                    "description": "Description for Slide 12"
                 },
                 {
                     "slide_number": 13,
                     "image_path": "./subjects/cfd/v02/slide_13.png",
-                    "description": "./subjects/cfd/v02/slide_13.md"
+                    "description": "Description for Slide 13"
                 },
                 {
                     "slide_number": 14,
                     "image_path": "./subjects/cfd/v02/slide_14.png",
-                    "description": "./subjects/cfd/v02/slide_14.md"
+                    "description": "Description for Slide 14"
                 },
                 {
                     "slide_number": 15,
                     "image_path": "./subjects/cfd/v02/slide_15.png",
-                    "description": "./subjects/cfd/v02/slide_15.md"
+                    "description": "Description for Slide 15"
                 },
                 {
                     "slide_number": 16,
                     "image_path": "./subjects/cfd/v02/slide_16.png",
-                    "description": "./subjects/cfd/v02/slide_16.md"
+                    "description": "Description for Slide 16"
                 },
                 {
                     "slide_number": 17,
                     "image_path": "./subjects/cfd/v02/slide_17.png",
-                    "description": "./subjects/cfd/v02/slide_17.md"
+                    "description": "Description for Slide 17"
                 },
                 {
                     "slide_number": 18,
                     "image_path": "./subjects/cfd/v02/slide_18.png",
-                    "description": "./subjects/cfd/v02/slide_18.md"
+                    "description": "Description for Slide 18"
                 },
                 {
                     "slide_number": 19,
                     "image_path": "./subjects/cfd/v02/slide_19.png",
-                    "description": "./subjects/cfd/v02/slide_19.md"
+                    "description": "Description for Slide 19"
                 },
                 {
                     "slide_number": 20,
                     "image_path": "./subjects/cfd/v02/slide_20.png",
-                    "description": "./subjects/cfd/v02/slide_20.md"
+                    "description": "Description for Slide 20"
                 },
                 {
                     "slide_number": 21,
                     "image_path": "./subjects/cfd/v02/slide_21.png",
-                    "description": "./subjects/cfd/v02/slide_21.md"
+                    "description": "Description for Slide 21"
                 },
                 {
                     "slide_number": 22,
                     "image_path": "./subjects/cfd/v02/slide_22.png",
-                    "description": "./subjects/cfd/v02/slide_22.md"
+                    "description": "Description for Slide 22"
                 },
                 {
                     "slide_number": 23,
                     "image_path": "./subjects/cfd/v02/slide_23.png",
-                    "description": "./subjects/cfd/v02/slide_23.md"
+                    "description": "Description for Slide 23"
                 },
                 {
                     "slide_number": 24,
                     "image_path": "./subjects/cfd/v02/slide_24.png",
-                    "description": "./subjects/cfd/v02/slide_24.md"
+                    "description": "Description for Slide 24"
                 },
                 {
                     "slide_number": 25,
                     "image_path": "./subjects/cfd/v02/slide_25.png",
-                    "description": "./subjects/cfd/v02/slide_25.md"
+                    "description": "Description for Slide 25"
                 },
                 {
                     "slide_number": 26,
                     "image_path": "./subjects/cfd/v02/slide_26.png",
-                    "description": "./subjects/cfd/v02/slide_26.md"
+                    "description": "Description for Slide 26"
                 },
                 {
                     "slide_number": 27,
                     "image_path": "./subjects/cfd/v02/slide_27.png",
-                    "description": "./subjects/cfd/v02/slide_27.md"
+                    "description": "Description for Slide 27"
                 },
                 {
                     "slide_number": 28,
                     "image_path": "./subjects/cfd/v02/slide_28.png",
-                    "description": "./subjects/cfd/v02/slide_28.md"
+                    "description": "Description for Slide 28"
                 },
                 {
                     "slide_number": 29,
                     "image_path": "./subjects/cfd/v02/slide_29.png",
-                    "description": "./subjects/cfd/v02/slide_29.md"
+                    "description": "Description for Slide 29"
                 },
                 {
                     "slide_number": 30,
                     "image_path": "./subjects/cfd/v02/slide_30.png",
-                    "description": "./subjects/cfd/v02/slide_30.md"
+                    "description": "Description for Slide 30"
                 },
                 {
                     "slide_number": 31,
                     "image_path": "./subjects/cfd/v02/slide_31.png",
-                    "description": "./subjects/cfd/v02/slide_31.md"
+                    "description": "Description for Slide 31"
                 },
                 {
                     "slide_number": 32,
                     "image_path": "./subjects/cfd/v02/slide_32.png",
-                    "description": "./subjects/cfd/v02/slide_32.md"
+                    "description": "Description for Slide 32"
                 },
                 {
                     "slide_number": 33,
                     "image_path": "./subjects/cfd/v02/slide_33.png",
-                    "description": "./subjects/cfd/v02/slide_33.md"
+                    "description": "Description for Slide 33"
                 },
                 {
                     "slide_number": 34,
                     "image_path": "./subjects/cfd/v02/slide_34.png",
-                    "description": "./subjects/cfd/v02/slide_34.md"
+                    "description": "Description for Slide 34"
                 },
                 {
                     "slide_number": 35,
                     "image_path": "./subjects/cfd/v02/slide_35.png",
-                    "description": "./subjects/cfd/v02/slide_35.md"
+                    "description": "Description for Slide 35"
                 },
                 {
                     "slide_number": 36,
                     "image_path": "./subjects/cfd/v02/slide_36.png",
-                    "description": "./subjects/cfd/v02/slide_36.md"
+                    "description": "Description for Slide 36"
                 },
                 {
                     "slide_number": 37,
                     "image_path": "./subjects/cfd/v02/slide_37.png",
-                    "description": "./subjects/cfd/v02/slide_37.md"
+                    "description": "Description for Slide 37"
                 },
                 {
                     "slide_number": 38,
                     "image_path": "./subjects/cfd/v02/slide_38.png",
-                    "description": "./subjects/cfd/v02/slide_38.md"
+                    "description": "Description for Slide 38"
                 },
                 {
                     "slide_number": 39,
                     "image_path": "./subjects/cfd/v02/slide_39.png",
-                    "description": "./subjects/cfd/v02/slide_39.md"
+                    "description": "Description for Slide 39"
                 },
                 {
                     "slide_number": 40,
                     "image_path": "./subjects/cfd/v02/slide_40.png",
-                    "description": "./subjects/cfd/v02/slide_40.md"
+                    "description": "Description for Slide 40"
                 }
             ]
         },
@@ -414,207 +413,207 @@
                 {
                     "slide_number": 1,
                     "image_path": "./subjects/cfd/v03/slide_1.png",
-                    "description": "./subjects/cfd/v03/slide_1.md"
+                    "description": "Description for Slide 1"
                 },
                 {
                     "slide_number": 2,
                     "image_path": "./subjects/cfd/v03/slide_2.png",
-                    "description": "./subjects/cfd/v03/slide_2.md"
+                    "description": "Description for Slide 2"
                 },
                 {
                     "slide_number": 3,
                     "image_path": "./subjects/cfd/v03/slide_3.png",
-                    "description": "./subjects/cfd/v03/slide_3.md"
+                    "description": "Description for Slide 3"
                 },
                 {
                     "slide_number": 4,
                     "image_path": "./subjects/cfd/v03/slide_4.png",
-                    "description": "./subjects/cfd/v03/slide_4.md"
+                    "description": "Description for Slide 4"
                 },
                 {
                     "slide_number": 5,
                     "image_path": "./subjects/cfd/v03/slide_5.png",
-                    "description": "./subjects/cfd/v03/slide_5.md"
+                    "description": "Description for Slide 5"
                 },
                 {
                     "slide_number": 6,
                     "image_path": "./subjects/cfd/v03/slide_6.png",
-                    "description": "./subjects/cfd/v03/slide_6.md"
+                    "description": "Description for Slide 6"
                 },
                 {
                     "slide_number": 7,
                     "image_path": "./subjects/cfd/v03/slide_7.png",
-                    "description": "./subjects/cfd/v03/slide_7.md"
+                    "description": "Description for Slide 7"
                 },
                 {
                     "slide_number": 8,
                     "image_path": "./subjects/cfd/v03/slide_8.png",
-                    "description": "./subjects/cfd/v03/slide_8.md"
+                    "description": "Description for Slide 8"
                 },
                 {
                     "slide_number": 9,
                     "image_path": "./subjects/cfd/v03/slide_9.png",
-                    "description": "./subjects/cfd/v03/slide_9.md"
+                    "description": "Description for Slide 9"
                 },
                 {
                     "slide_number": 10,
                     "image_path": "./subjects/cfd/v03/slide_10.png",
-                    "description": "./subjects/cfd/v03/slide_10.md"
+                    "description": "Description for Slide 10"
                 },
                 {
                     "slide_number": 11,
                     "image_path": "./subjects/cfd/v03/slide_11.png",
-                    "description": "./subjects/cfd/v03/slide_11.md"
+                    "description": "Description for Slide 11"
                 },
                 {
                     "slide_number": 12,
                     "image_path": "./subjects/cfd/v03/slide_12.png",
-                    "description": "./subjects/cfd/v03/slide_12.md"
+                    "description": "Description for Slide 12"
                 },
                 {
                     "slide_number": 13,
                     "image_path": "./subjects/cfd/v03/slide_13.png",
-                    "description": "./subjects/cfd/v03/slide_13.md"
+                    "description": "Description for Slide 13"
                 },
                 {
                     "slide_number": 14,
                     "image_path": "./subjects/cfd/v03/slide_14.png",
-                    "description": "./subjects/cfd/v03/slide_14.md"
+                    "description": "Description for Slide 14"
                 },
                 {
                     "slide_number": 15,
                     "image_path": "./subjects/cfd/v03/slide_15.png",
-                    "description": "./subjects/cfd/v03/slide_15.md"
+                    "description": "Description for Slide 15"
                 },
                 {
                     "slide_number": 16,
                     "image_path": "./subjects/cfd/v03/slide_16.png",
-                    "description": "./subjects/cfd/v03/slide_16.md"
+                    "description": "Description for Slide 16"
                 },
                 {
                     "slide_number": 17,
                     "image_path": "./subjects/cfd/v03/slide_17.png",
-                    "description": "./subjects/cfd/v03/slide_17.md"
+                    "description": "Description for Slide 17"
                 },
                 {
                     "slide_number": 18,
                     "image_path": "./subjects/cfd/v03/slide_18.png",
-                    "description": "./subjects/cfd/v03/slide_18.md"
+                    "description": "Description for Slide 18"
                 },
                 {
                     "slide_number": 19,
                     "image_path": "./subjects/cfd/v03/slide_19.png",
-                    "description": "./subjects/cfd/v03/slide_19.md"
+                    "description": "Description for Slide 19"
                 },
                 {
                     "slide_number": 20,
                     "image_path": "./subjects/cfd/v03/slide_20.png",
-                    "description": "./subjects/cfd/v03/slide_20.md"
+                    "description": "Description for Slide 20"
                 },
                 {
                     "slide_number": 21,
                     "image_path": "./subjects/cfd/v03/slide_21.png",
-                    "description": "./subjects/cfd/v03/slide_21.md"
+                    "description": "Description for Slide 21"
                 },
                 {
                     "slide_number": 22,
                     "image_path": "./subjects/cfd/v03/slide_22.png",
-                    "description": "./subjects/cfd/v03/slide_22.md"
+                    "description": "Description for Slide 22"
                 },
                 {
                     "slide_number": 23,
                     "image_path": "./subjects/cfd/v03/slide_23.png",
-                    "description": "./subjects/cfd/v03/slide_23.md"
+                    "description": "Description for Slide 23"
                 },
                 {
                     "slide_number": 24,
                     "image_path": "./subjects/cfd/v03/slide_24.png",
-                    "description": "./subjects/cfd/v03/slide_24.md"
+                    "description": "Description for Slide 24"
                 },
                 {
                     "slide_number": 25,
                     "image_path": "./subjects/cfd/v03/slide_25.png",
-                    "description": "./subjects/cfd/v03/slide_25.md"
+                    "description": "Description for Slide 25"
                 },
                 {
                     "slide_number": 26,
                     "image_path": "./subjects/cfd/v03/slide_26.png",
-                    "description": "./subjects/cfd/v03/slide_26.md"
+                    "description": "Description for Slide 26"
                 },
                 {
                     "slide_number": 27,
                     "image_path": "./subjects/cfd/v03/slide_27.png",
-                    "description": "./subjects/cfd/v03/slide_27.md"
+                    "description": "Description for Slide 27"
                 },
                 {
                     "slide_number": 28,
                     "image_path": "./subjects/cfd/v03/slide_28.png",
-                    "description": "./subjects/cfd/v03/slide_28.md"
+                    "description": "Description for Slide 28"
                 },
                 {
                     "slide_number": 29,
                     "image_path": "./subjects/cfd/v03/slide_29.png",
-                    "description": "./subjects/cfd/v03/slide_29.md"
+                    "description": "Description for Slide 29"
                 },
                 {
                     "slide_number": 30,
                     "image_path": "./subjects/cfd/v03/slide_30.png",
-                    "description": "./subjects/cfd/v03/slide_30.md"
+                    "description": "Description for Slide 30"
                 },
                 {
                     "slide_number": 31,
                     "image_path": "./subjects/cfd/v03/slide_31.png",
-                    "description": "./subjects/cfd/v03/slide_31.md"
+                    "description": "Description for Slide 31"
                 },
                 {
                     "slide_number": 32,
                     "image_path": "./subjects/cfd/v03/slide_32.png",
-                    "description": "./subjects/cfd/v03/slide_32.md"
+                    "description": "Description for Slide 32"
                 },
                 {
                     "slide_number": 33,
                     "image_path": "./subjects/cfd/v03/slide_33.png",
-                    "description": "./subjects/cfd/v03/slide_33.md"
+                    "description": "Description for Slide 33"
                 },
                 {
                     "slide_number": 34,
                     "image_path": "./subjects/cfd/v03/slide_34.png",
-                    "description": "./subjects/cfd/v03/slide_34.md"
+                    "description": "Description for Slide 34"
                 },
                 {
                     "slide_number": 35,
                     "image_path": "./subjects/cfd/v03/slide_35.png",
-                    "description": "./subjects/cfd/v03/slide_35.md"
+                    "description": "Description for Slide 35"
                 },
                 {
                     "slide_number": 36,
                     "image_path": "./subjects/cfd/v03/slide_36.png",
-                    "description": "./subjects/cfd/v03/slide_36.md"
+                    "description": "Description for Slide 36"
                 },
                 {
                     "slide_number": 37,
                     "image_path": "./subjects/cfd/v03/slide_37.png",
-                    "description": "./subjects/cfd/v03/slide_37.md"
+                    "description": "Description for Slide 37"
                 },
                 {
                     "slide_number": 38,
                     "image_path": "./subjects/cfd/v03/slide_38.png",
-                    "description": "./subjects/cfd/v03/slide_38.md"
+                    "description": "Description for Slide 38"
                 },
                 {
                     "slide_number": 39,
                     "image_path": "./subjects/cfd/v03/slide_39.png",
-                    "description": "./subjects/cfd/v03/slide_39.md"
+                    "description": "Description for Slide 39"
                 },
                 {
                     "slide_number": 40,
                     "image_path": "./subjects/cfd/v03/slide_40.png",
-                    "description": "./subjects/cfd/v03/slide_40.md"
+                    "description": "Description for Slide 40"
                 },
                 {
                     "slide_number": 41,
                     "image_path": "./subjects/cfd/v03/slide_41.png",
-                    "description": "./subjects/cfd/v03/slide_41.md"
+                    "description": "Description for Slide 41"
                 }
             ]
         },
@@ -625,187 +624,187 @@
                 {
                     "slide_number": 1,
                     "image_path": "./subjects/cfd/v04/slide_1.png",
-                    "description": "./subjects/cfd/v04/slide_1.md"
+                    "description": "Description for Slide 1"
                 },
                 {
                     "slide_number": 2,
                     "image_path": "./subjects/cfd/v04/slide_2.png",
-                    "description": "./subjects/cfd/v04/slide_2.md"
+                    "description": "Description for Slide 2"
                 },
                 {
                     "slide_number": 3,
                     "image_path": "./subjects/cfd/v04/slide_3.png",
-                    "description": "./subjects/cfd/v04/slide_3.md"
+                    "description": "Description for Slide 3"
                 },
                 {
                     "slide_number": 4,
                     "image_path": "./subjects/cfd/v04/slide_4.png",
-                    "description": "./subjects/cfd/v04/slide_4.md"
+                    "description": "Description for Slide 4"
                 },
                 {
                     "slide_number": 5,
                     "image_path": "./subjects/cfd/v04/slide_5.png",
-                    "description": "./subjects/cfd/v04/slide_5.md"
+                    "description": "Description for Slide 5"
                 },
                 {
                     "slide_number": 6,
                     "image_path": "./subjects/cfd/v04/slide_6.png",
-                    "description": "./subjects/cfd/v04/slide_6.md"
+                    "description": "Description for Slide 6"
                 },
                 {
                     "slide_number": 7,
                     "image_path": "./subjects/cfd/v04/slide_7.png",
-                    "description": "./subjects/cfd/v04/slide_7.md"
+                    "description": "Description for Slide 7"
                 },
                 {
                     "slide_number": 8,
                     "image_path": "./subjects/cfd/v04/slide_8.png",
-                    "description": "./subjects/cfd/v04/slide_8.md"
+                    "description": "Description for Slide 8"
                 },
                 {
                     "slide_number": 9,
                     "image_path": "./subjects/cfd/v04/slide_9.png",
-                    "description": "./subjects/cfd/v04/slide_9.md"
+                    "description": "Description for Slide 9"
                 },
                 {
                     "slide_number": 10,
                     "image_path": "./subjects/cfd/v04/slide_10.png",
-                    "description": "./subjects/cfd/v04/slide_10.md"
+                    "description": "Description for Slide 10"
                 },
                 {
                     "slide_number": 11,
                     "image_path": "./subjects/cfd/v04/slide_11.png",
-                    "description": "./subjects/cfd/v04/slide_11.md"
+                    "description": "Description for Slide 11"
                 },
                 {
                     "slide_number": 12,
                     "image_path": "./subjects/cfd/v04/slide_12.png",
-                    "description": "./subjects/cfd/v04/slide_12.md"
+                    "description": "Description for Slide 12"
                 },
                 {
                     "slide_number": 13,
                     "image_path": "./subjects/cfd/v04/slide_13.png",
-                    "description": "./subjects/cfd/v04/slide_13.md"
+                    "description": "Description for Slide 13"
                 },
                 {
                     "slide_number": 14,
                     "image_path": "./subjects/cfd/v04/slide_14.png",
-                    "description": "./subjects/cfd/v04/slide_14.md"
+                    "description": "Description for Slide 14"
                 },
                 {
                     "slide_number": 15,
                     "image_path": "./subjects/cfd/v04/slide_15.png",
-                    "description": "./subjects/cfd/v04/slide_15.md"
+                    "description": "Description for Slide 15"
                 },
                 {
                     "slide_number": 16,
                     "image_path": "./subjects/cfd/v04/slide_16.png",
-                    "description": "./subjects/cfd/v04/slide_16.md"
+                    "description": "Description for Slide 16"
                 },
                 {
                     "slide_number": 17,
                     "image_path": "./subjects/cfd/v04/slide_17.png",
-                    "description": "./subjects/cfd/v04/slide_17.md"
+                    "description": "Description for Slide 17"
                 },
                 {
                     "slide_number": 18,
                     "image_path": "./subjects/cfd/v04/slide_18.png",
-                    "description": "./subjects/cfd/v04/slide_18.md"
+                    "description": "Description for Slide 18"
                 },
                 {
                     "slide_number": 19,
                     "image_path": "./subjects/cfd/v04/slide_19.png",
-                    "description": "./subjects/cfd/v04/slide_19.md"
+                    "description": "Description for Slide 19"
                 },
                 {
                     "slide_number": 20,
                     "image_path": "./subjects/cfd/v04/slide_20.png",
-                    "description": "./subjects/cfd/v04/slide_20.md"
+                    "description": "Description for Slide 20"
                 },
                 {
                     "slide_number": 21,
                     "image_path": "./subjects/cfd/v04/slide_21.png",
-                    "description": "./subjects/cfd/v04/slide_21.md"
+                    "description": "Description for Slide 21"
                 },
                 {
                     "slide_number": 22,
                     "image_path": "./subjects/cfd/v04/slide_22.png",
-                    "description": "./subjects/cfd/v04/slide_22.md"
+                    "description": "Description for Slide 22"
                 },
                 {
                     "slide_number": 23,
                     "image_path": "./subjects/cfd/v04/slide_23.png",
-                    "description": "./subjects/cfd/v04/slide_23.md"
+                    "description": "Description for Slide 23"
                 },
                 {
                     "slide_number": 24,
                     "image_path": "./subjects/cfd/v04/slide_24.png",
-                    "description": "./subjects/cfd/v04/slide_24.md"
+                    "description": "Description for Slide 24"
                 },
                 {
                     "slide_number": 25,
                     "image_path": "./subjects/cfd/v04/slide_25.png",
-                    "description": "./subjects/cfd/v04/slide_25.md"
+                    "description": "Description for Slide 25"
                 },
                 {
                     "slide_number": 26,
                     "image_path": "./subjects/cfd/v04/slide_26.png",
-                    "description": "./subjects/cfd/v04/slide_26.md"
+                    "description": "Description for Slide 26"
                 },
                 {
                     "slide_number": 27,
                     "image_path": "./subjects/cfd/v04/slide_27.png",
-                    "description": "./subjects/cfd/v04/slide_27.md"
+                    "description": "Description for Slide 27"
                 },
                 {
                     "slide_number": 28,
                     "image_path": "./subjects/cfd/v04/slide_28.png",
-                    "description": "./subjects/cfd/v04/slide_28.md"
+                    "description": "Description for Slide 28"
                 },
                 {
                     "slide_number": 29,
                     "image_path": "./subjects/cfd/v04/slide_29.png",
-                    "description": "./subjects/cfd/v04/slide_29.md"
+                    "description": "Description for Slide 29"
                 },
                 {
                     "slide_number": 30,
                     "image_path": "./subjects/cfd/v04/slide_30.png",
-                    "description": "./subjects/cfd/v04/slide_30.md"
+                    "description": "Description for Slide 30"
                 },
                 {
                     "slide_number": 31,
                     "image_path": "./subjects/cfd/v04/slide_31.png",
-                    "description": "./subjects/cfd/v04/slide_31.md"
+                    "description": "Description for Slide 31"
                 },
                 {
                     "slide_number": 32,
                     "image_path": "./subjects/cfd/v04/slide_32.png",
-                    "description": "./subjects/cfd/v04/slide_32.md"
+                    "description": "Description for Slide 32"
                 },
                 {
                     "slide_number": 33,
                     "image_path": "./subjects/cfd/v04/slide_33.png",
-                    "description": "./subjects/cfd/v04/slide_33.md"
+                    "description": "Description for Slide 33"
                 },
                 {
                     "slide_number": 34,
                     "image_path": "./subjects/cfd/v04/slide_34.png",
-                    "description": "./subjects/cfd/v04/slide_34.md"
+                    "description": "Description for Slide 34"
                 },
                 {
                     "slide_number": 35,
                     "image_path": "./subjects/cfd/v04/slide_35.png",
-                    "description": "./subjects/cfd/v04/slide_35.md"
+                    "description": "Description for Slide 35"
                 },
                 {
                     "slide_number": 36,
                     "image_path": "./subjects/cfd/v04/slide_36.png",
-                    "description": "./subjects/cfd/v04/slide_36.md"
+                    "description": "Description for Slide 36"
                 },
                 {
                     "slide_number": 37,
                     "image_path": "./subjects/cfd/v04/slide_37.png",
-                    "description": "./subjects/cfd/v04/slide_37.md"
+                    "description": "Description for Slide 37"
                 }
             ]
         },
@@ -816,147 +815,147 @@
                 {
                     "slide_number": 1,
                     "image_path": "./subjects/cfd/v05/slide_1.png",
-                    "description": "./subjects/cfd/v05/slide_1.md"
+                    "description": "Description for Slide 1"
                 },
                 {
                     "slide_number": 2,
                     "image_path": "./subjects/cfd/v05/slide_2.png",
-                    "description": "./subjects/cfd/v05/slide_2.md"
+                    "description": "Description for Slide 2"
                 },
                 {
                     "slide_number": 3,
                     "image_path": "./subjects/cfd/v05/slide_3.png",
-                    "description": "./subjects/cfd/v05/slide_3.md"
+                    "description": "Description for Slide 3"
                 },
                 {
                     "slide_number": 4,
                     "image_path": "./subjects/cfd/v05/slide_4.png",
-                    "description": "./subjects/cfd/v05/slide_4.md"
+                    "description": "Description for Slide 4"
                 },
                 {
                     "slide_number": 5,
                     "image_path": "./subjects/cfd/v05/slide_5.png",
-                    "description": "./subjects/cfd/v05/slide_5.md"
+                    "description": "Description for Slide 5"
                 },
                 {
                     "slide_number": 6,
                     "image_path": "./subjects/cfd/v05/slide_6.png",
-                    "description": "./subjects/cfd/v05/slide_6.md"
+                    "description": "Description for Slide 6"
                 },
                 {
                     "slide_number": 7,
                     "image_path": "./subjects/cfd/v05/slide_7.png",
-                    "description": "./subjects/cfd/v05/slide_7.md"
+                    "description": "Description for Slide 7"
                 },
                 {
                     "slide_number": 8,
                     "image_path": "./subjects/cfd/v05/slide_8.png",
-                    "description": "./subjects/cfd/v05/slide_8.md"
+                    "description": "Description for Slide 8"
                 },
                 {
                     "slide_number": 9,
                     "image_path": "./subjects/cfd/v05/slide_9.png",
-                    "description": "./subjects/cfd/v05/slide_9.md"
+                    "description": "Description for Slide 9"
                 },
                 {
                     "slide_number": 10,
                     "image_path": "./subjects/cfd/v05/slide_10.png",
-                    "description": "./subjects/cfd/v05/slide_10.md"
+                    "description": "Description for Slide 10"
                 },
                 {
                     "slide_number": 11,
                     "image_path": "./subjects/cfd/v05/slide_11.png",
-                    "description": "./subjects/cfd/v05/slide_11.md"
+                    "description": "Description for Slide 11"
                 },
                 {
                     "slide_number": 12,
                     "image_path": "./subjects/cfd/v05/slide_12.png",
-                    "description": "./subjects/cfd/v05/slide_12.md"
+                    "description": "Description for Slide 12"
                 },
                 {
                     "slide_number": 13,
                     "image_path": "./subjects/cfd/v05/slide_13.png",
-                    "description": "./subjects/cfd/v05/slide_13.md"
+                    "description": "Description for Slide 13"
                 },
                 {
                     "slide_number": 14,
                     "image_path": "./subjects/cfd/v05/slide_14.png",
-                    "description": "./subjects/cfd/v05/slide_14.md"
+                    "description": "Description for Slide 14"
                 },
                 {
                     "slide_number": 15,
                     "image_path": "./subjects/cfd/v05/slide_15.png",
-                    "description": "./subjects/cfd/v05/slide_15.md"
+                    "description": "Description for Slide 15"
                 },
                 {
                     "slide_number": 16,
                     "image_path": "./subjects/cfd/v05/slide_16.png",
-                    "description": "./subjects/cfd/v05/slide_16.md"
+                    "description": "Description for Slide 16"
                 },
                 {
                     "slide_number": 17,
                     "image_path": "./subjects/cfd/v05/slide_17.png",
-                    "description": "./subjects/cfd/v05/slide_17.md"
+                    "description": "Description for Slide 17"
                 },
                 {
                     "slide_number": 18,
                     "image_path": "./subjects/cfd/v05/slide_18.png",
-                    "description": "./subjects/cfd/v05/slide_18.md"
+                    "description": "Description for Slide 18"
                 },
                 {
                     "slide_number": 19,
                     "image_path": "./subjects/cfd/v05/slide_19.png",
-                    "description": "./subjects/cfd/v05/slide_19.md"
+                    "description": "Description for Slide 19"
                 },
                 {
                     "slide_number": 20,
                     "image_path": "./subjects/cfd/v05/slide_20.png",
-                    "description": "./subjects/cfd/v05/slide_20.md"
+                    "description": "Description for Slide 20"
                 },
                 {
                     "slide_number": 21,
                     "image_path": "./subjects/cfd/v05/slide_21.png",
-                    "description": "./subjects/cfd/v05/slide_21.md"
+                    "description": "Description for Slide 21"
                 },
                 {
                     "slide_number": 22,
                     "image_path": "./subjects/cfd/v05/slide_22.png",
-                    "description": "./subjects/cfd/v05/slide_22.md"
+                    "description": "Description for Slide 22"
                 },
                 {
                     "slide_number": 23,
                     "image_path": "./subjects/cfd/v05/slide_23.png",
-                    "description": "./subjects/cfd/v05/slide_23.md"
+                    "description": "Description for Slide 23"
                 },
                 {
                     "slide_number": 24,
                     "image_path": "./subjects/cfd/v05/slide_24.png",
-                    "description": "./subjects/cfd/v05/slide_24.md"
+                    "description": "Description for Slide 24"
                 },
                 {
                     "slide_number": 25,
                     "image_path": "./subjects/cfd/v05/slide_25.png",
-                    "description": "./subjects/cfd/v05/slide_25.md"
+                    "description": "Description for Slide 25"
                 },
                 {
                     "slide_number": 26,
                     "image_path": "./subjects/cfd/v05/slide_26.png",
-                    "description": "./subjects/cfd/v05/slide_26.md"
+                    "description": "Description for Slide 26"
                 },
                 {
                     "slide_number": 27,
                     "image_path": "./subjects/cfd/v05/slide_27.png",
-                    "description": "./subjects/cfd/v05/slide_27.md"
+                    "description": "Description for Slide 27"
                 },
                 {
                     "slide_number": 28,
                     "image_path": "./subjects/cfd/v05/slide_28.png",
-                    "description": "./subjects/cfd/v05/slide_28.md"
+                    "description": "Description for Slide 28"
                 },
                 {
                     "slide_number": 29,
                     "image_path": "./subjects/cfd/v05/slide_29.png",
-                    "description": "./subjects/cfd/v05/slide_29.md"
+                    "description": "Description for Slide 29"
                 }
             ]
         },
@@ -967,127 +966,127 @@
                 {
                     "slide_number": 1,
                     "image_path": "./subjects/cfd/v06/slide_1.png",
-                    "description": "./subjects/cfd/v06/slide_1.md"
+                    "description": "Description for Slide 1"
                 },
                 {
                     "slide_number": 2,
                     "image_path": "./subjects/cfd/v06/slide_2.png",
-                    "description": "./subjects/cfd/v06/slide_2.md"
+                    "description": "Description for Slide 2"
                 },
                 {
                     "slide_number": 3,
                     "image_path": "./subjects/cfd/v06/slide_3.png",
-                    "description": "./subjects/cfd/v06/slide_3.md"
+                    "description": "Description for Slide 3"
                 },
                 {
                     "slide_number": 4,
                     "image_path": "./subjects/cfd/v06/slide_4.png",
-                    "description": "./subjects/cfd/v06/slide_4.md"
+                    "description": "Description for Slide 4"
                 },
                 {
                     "slide_number": 5,
                     "image_path": "./subjects/cfd/v06/slide_5.png",
-                    "description": "./subjects/cfd/v06/slide_5.md"
+                    "description": "Description for Slide 5"
                 },
                 {
                     "slide_number": 6,
                     "image_path": "./subjects/cfd/v06/slide_6.png",
-                    "description": "./subjects/cfd/v06/slide_6.md"
+                    "description": "Description for Slide 6"
                 },
                 {
                     "slide_number": 7,
                     "image_path": "./subjects/cfd/v06/slide_7.png",
-                    "description": "./subjects/cfd/v06/slide_7.md"
+                    "description": "Description for Slide 7"
                 },
                 {
                     "slide_number": 8,
                     "image_path": "./subjects/cfd/v06/slide_8.png",
-                    "description": "./subjects/cfd/v06/slide_8.md"
+                    "description": "Description for Slide 8"
                 },
                 {
                     "slide_number": 9,
                     "image_path": "./subjects/cfd/v06/slide_9.png",
-                    "description": "./subjects/cfd/v06/slide_9.md"
+                    "description": "Description for Slide 9"
                 },
                 {
                     "slide_number": 10,
                     "image_path": "./subjects/cfd/v06/slide_10.png",
-                    "description": "./subjects/cfd/v06/slide_10.md"
+                    "description": "Description for Slide 10"
                 },
                 {
                     "slide_number": 11,
                     "image_path": "./subjects/cfd/v06/slide_11.png",
-                    "description": "./subjects/cfd/v06/slide_11.md"
+                    "description": "Description for Slide 11"
                 },
                 {
                     "slide_number": 12,
                     "image_path": "./subjects/cfd/v06/slide_12.png",
-                    "description": "./subjects/cfd/v06/slide_12.md"
+                    "description": "Description for Slide 12"
                 },
                 {
                     "slide_number": 13,
                     "image_path": "./subjects/cfd/v06/slide_13.png",
-                    "description": "./subjects/cfd/v06/slide_13.md"
+                    "description": "Description for Slide 13"
                 },
                 {
                     "slide_number": 14,
                     "image_path": "./subjects/cfd/v06/slide_14.png",
-                    "description": "./subjects/cfd/v06/slide_14.md"
+                    "description": "Description for Slide 14"
                 },
                 {
                     "slide_number": 15,
                     "image_path": "./subjects/cfd/v06/slide_15.png",
-                    "description": "./subjects/cfd/v06/slide_15.md"
+                    "description": "Description for Slide 15"
                 },
                 {
                     "slide_number": 16,
                     "image_path": "./subjects/cfd/v06/slide_16.png",
-                    "description": "./subjects/cfd/v06/slide_16.md"
+                    "description": "Description for Slide 16"
                 },
                 {
                     "slide_number": 17,
                     "image_path": "./subjects/cfd/v06/slide_17.png",
-                    "description": "./subjects/cfd/v06/slide_17.md"
+                    "description": "Description for Slide 17"
                 },
                 {
                     "slide_number": 18,
                     "image_path": "./subjects/cfd/v06/slide_18.png",
-                    "description": "./subjects/cfd/v06/slide_18.md"
+                    "description": "Description for Slide 18"
                 },
                 {
                     "slide_number": 19,
                     "image_path": "./subjects/cfd/v06/slide_19.png",
-                    "description": "./subjects/cfd/v06/slide_19.md"
+                    "description": "Description for Slide 19"
                 },
                 {
                     "slide_number": 20,
                     "image_path": "./subjects/cfd/v06/slide_20.png",
-                    "description": "./subjects/cfd/v06/slide_20.md"
+                    "description": "Description for Slide 20"
                 },
                 {
                     "slide_number": 21,
                     "image_path": "./subjects/cfd/v06/slide_21.png",
-                    "description": "./subjects/cfd/v06/slide_21.md"
+                    "description": "Description for Slide 21"
                 },
                 {
                     "slide_number": 22,
                     "image_path": "./subjects/cfd/v06/slide_22.png",
-                    "description": "./subjects/cfd/v06/slide_22.md"
+                    "description": "Description for Slide 22"
                 },
                 {
                     "slide_number": 23,
                     "image_path": "./subjects/cfd/v06/slide_23.png",
-                    "description": "./subjects/cfd/v06/slide_23.md"
+                    "description": "Description for Slide 23"
                 },
                 {
                     "slide_number": 24,
                     "image_path": "./subjects/cfd/v06/slide_24.png",
-                    "description": "./subjects/cfd/v06/slide_24.md"
+                    "description": "Description for Slide 24"
                 },
                 {
                     "slide_number": 25,
                     "image_path": "./subjects/cfd/v06/slide_25.png",
-                    "description": "./subjects/cfd/v06/slide_25.md"
+                    "description": "Description for Slide 25"
                 }
             ]
         },
@@ -1098,127 +1097,127 @@
                 {
                     "slide_number": 1,
                     "image_path": "./subjects/cfd/v07/slide_1.png",
-                    "description": "./subjects/cfd/v07/slide_1.md"
+                    "description": "Description for Slide 1"
                 },
                 {
                     "slide_number": 2,
                     "image_path": "./subjects/cfd/v07/slide_2.png",
-                    "description": "./subjects/cfd/v07/slide_2.md"
+                    "description": "Description for Slide 2"
                 },
                 {
                     "slide_number": 3,
                     "image_path": "./subjects/cfd/v07/slide_3.png",
-                    "description": "./subjects/cfd/v07/slide_3.md"
+                    "description": "Description for Slide 3"
                 },
                 {
                     "slide_number": 4,
                     "image_path": "./subjects/cfd/v07/slide_4.png",
-                    "description": "./subjects/cfd/v07/slide_4.md"
+                    "description": "Description for Slide 4"
                 },
                 {
                     "slide_number": 5,
                     "image_path": "./subjects/cfd/v07/slide_5.png",
-                    "description": "./subjects/cfd/v07/slide_5.md"
+                    "description": "Description for Slide 5"
                 },
                 {
                     "slide_number": 6,
                     "image_path": "./subjects/cfd/v07/slide_6.png",
-                    "description": "./subjects/cfd/v07/slide_6.md"
+                    "description": "Description for Slide 6"
                 },
                 {
                     "slide_number": 7,
                     "image_path": "./subjects/cfd/v07/slide_7.png",
-                    "description": "./subjects/cfd/v07/slide_7.md"
+                    "description": "Description for Slide 7"
                 },
                 {
                     "slide_number": 8,
                     "image_path": "./subjects/cfd/v07/slide_8.png",
-                    "description": "./subjects/cfd/v07/slide_8.md"
+                    "description": "Description for Slide 8"
                 },
                 {
                     "slide_number": 9,
                     "image_path": "./subjects/cfd/v07/slide_9.png",
-                    "description": "./subjects/cfd/v07/slide_9.md"
+                    "description": "Description for Slide 9"
                 },
                 {
                     "slide_number": 10,
                     "image_path": "./subjects/cfd/v07/slide_10.png",
-                    "description": "./subjects/cfd/v07/slide_10.md"
+                    "description": "Description for Slide 10"
                 },
                 {
                     "slide_number": 11,
                     "image_path": "./subjects/cfd/v07/slide_11.png",
-                    "description": "./subjects/cfd/v07/slide_11.md"
+                    "description": "Description for Slide 11"
                 },
                 {
                     "slide_number": 12,
                     "image_path": "./subjects/cfd/v07/slide_12.png",
-                    "description": "./subjects/cfd/v07/slide_12.md"
+                    "description": "Description for Slide 12"
                 },
                 {
                     "slide_number": 13,
                     "image_path": "./subjects/cfd/v07/slide_13.png",
-                    "description": "./subjects/cfd/v07/slide_13.md"
+                    "description": "Description for Slide 13"
                 },
                 {
                     "slide_number": 14,
                     "image_path": "./subjects/cfd/v07/slide_14.png",
-                    "description": "./subjects/cfd/v07/slide_14.md"
+                    "description": "Description for Slide 14"
                 },
                 {
                     "slide_number": 15,
                     "image_path": "./subjects/cfd/v07/slide_15.png",
-                    "description": "./subjects/cfd/v07/slide_15.md"
+                    "description": "Description for Slide 15"
                 },
                 {
                     "slide_number": 16,
                     "image_path": "./subjects/cfd/v07/slide_16.png",
-                    "description": "./subjects/cfd/v07/slide_16.md"
+                    "description": "Description for Slide 16"
                 },
                 {
                     "slide_number": 17,
                     "image_path": "./subjects/cfd/v07/slide_17.png",
-                    "description": "./subjects/cfd/v07/slide_17.md"
+                    "description": "Description for Slide 17"
                 },
                 {
                     "slide_number": 18,
                     "image_path": "./subjects/cfd/v07/slide_18.png",
-                    "description": "./subjects/cfd/v07/slide_18.md"
+                    "description": "Description for Slide 18"
                 },
                 {
                     "slide_number": 19,
                     "image_path": "./subjects/cfd/v07/slide_19.png",
-                    "description": "./subjects/cfd/v07/slide_19.md"
+                    "description": "Description for Slide 19"
                 },
                 {
                     "slide_number": 20,
                     "image_path": "./subjects/cfd/v07/slide_20.png",
-                    "description": "./subjects/cfd/v07/slide_20.md"
+                    "description": "Description for Slide 20"
                 },
                 {
                     "slide_number": 21,
                     "image_path": "./subjects/cfd/v07/slide_21.png",
-                    "description": "./subjects/cfd/v07/slide_21.md"
+                    "description": "Description for Slide 21"
                 },
                 {
                     "slide_number": 22,
                     "image_path": "./subjects/cfd/v07/slide_22.png",
-                    "description": "./subjects/cfd/v07/slide_22.md"
+                    "description": "Description for Slide 22"
                 },
                 {
                     "slide_number": 23,
                     "image_path": "./subjects/cfd/v07/slide_23.png",
-                    "description": "./subjects/cfd/v07/slide_23.md"
+                    "description": "Description for Slide 23"
                 },
                 {
                     "slide_number": 24,
                     "image_path": "./subjects/cfd/v07/slide_24.png",
-                    "description": "./subjects/cfd/v07/slide_24.md"
+                    "description": "Description for Slide 24"
                 },
                 {
                     "slide_number": 25,
                     "image_path": "./subjects/cfd/v07/slide_25.png",
-                    "description": "./subjects/cfd/v07/slide_25.md"
+                    "description": "Description for Slide 25"
                 }
             ]
         }

@@ -1,12 +1,12 @@
 # https://platform.openai.com/docs/guides/vision
-
-from openai import OpenAI
+import streamlit as st
+# from openai import OpenAI
 import base64
 import requests
 import json
 
-# OpenAI API Key
-api_key = "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"
+# Load OpenAI API key
+api_key = st.secrets["OPENAI_API_KEY"]
 
 # Function to encode the image to base64
 def encode_image(image_path):
@@ -34,7 +34,7 @@ payload = {
             "content": [
                 {
                     "type": "text",
-                    "text": "Analyze this image from a computational fluid dynamics perspective."
+                    "text": "Summarize this slide "
                 },
                 {
                     "type": "image_url",
