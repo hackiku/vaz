@@ -102,8 +102,14 @@ def laasonen_couette():
     return u
 
 
+# =====================================================================
+# =========================== main ====================================
+# =====================================================================
+
 def main():
-    st.title("Couette Flow Simulation between Two Parallel Plates")
+    st.title("Couette Flow Simulation between Two Parallel Plates")\
+        
+    
     
     # Display the problem statement and the formula
     st.write("""
@@ -116,7 +122,24 @@ def main():
     """)
     
     # =========================== FTCS ====================================
-    st.subheader("1. FTCS scheme for Couette flow")
+    st.subheader("FTCS matlab")
+    
+    with open('./pages/ftcs_couette.m', 'r') as file:
+        output = file.read()
+        st.code(output, language='matlab')
+
+    st.subheader("2. Laasonen matlab")
+
+    with open('./pages/laasonen_couette.m', 'r') as file:
+        output = file.read()
+        st.code(output, language='matlab')
+
+    st.markdown("***")
+    
+    
+
+
+    # =========================== sym =================
     # Call the simulation function and display the results
     velocity_profile_ftcs = pd.DataFrame(ftcs_couette())
     st.write("Final velocity profile:")
@@ -133,9 +156,10 @@ def main():
     st.markdown("***")
 
     # =========================== Laasonen ====================================
-    st.subheader("1. Laasonen method for Couette flow")
+    st.subheader("2. Laasonen method for Couette flow")
     # Display the problem statement and the formula
     
+
     velocity_profile_laasonen = pd.DataFrame(laasonen_couette())
     st.write("Laasonen velocity profile:")
     st.dataframe(velocity_profile_laasonen.transpose())
