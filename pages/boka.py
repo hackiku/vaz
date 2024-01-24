@@ -145,7 +145,7 @@ def main():
     with st.expander("Click to reveal Python code"):
         st.code(laasonen_couette_code, language='python')
     
-    with open('./pages/ftcs_couette.m', 'r') as file:
+    with open('./pages/laasonen_couette.m', 'r') as file:
         output = file.read()
         st.code(output, language='matlab')
 
